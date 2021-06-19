@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36983992812",
+    "project_id": "esports-now-app",
+    "storage_bucket": "esports-now-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36983992812:android:1b1f58c5d3cfce5f8bd0c9",
+        "android_client_info": {
+          "package_name": "sharansukesh.esports_now"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36983992812-e8isb822vhmpric9fcpkkb7q2hf9vj16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1Q5H8Q37YGO49M3vqR-q5zjD1BziF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36983992812-e8isb822vhmpric9fcpkkb7q2hf9vj16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
